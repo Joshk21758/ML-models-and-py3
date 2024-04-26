@@ -1,0 +1,569 @@
+"ID_,C,16","NAME1_,C,64","NAME2_,C,64"
+003ZMB100101001,Chibombo D Health Office,D.H.M.T. Office
+003ZMB100101002,Chibombo Rhc,Rural Health Centre
+003ZMB100101003,Chipembi Rhc,Rural Health Centre
+003ZMB100101004,Chisamba Rhc,Rural Health Centre
+003ZMB100101005,Ipongo Rhc,Rural Health Centre
+003ZMB100101006,Keembe Rhc,Rural Health Centre
+003ZMB100101007,Malambanyama Rhc,Rural Health Centre
+003ZMB100101008,Mboshya Rhc,Rural Health Centre
+003ZMB100101009,Mungule Rhc,Rural Health Centre
+003ZMB100101010,Muswishi Rhc,Rural Health Centre
+003ZMB100101011,Mwachisompola Rhc,Rural Health Centre
+003ZMB100101012,Shimukuni Rhc,Rural Health Centre
+003ZMB100101013,Mundu Rhc,Rural Health Centre
+003ZMB100101014,Sandwe Rhc,Rural Health Centre
+003ZMB100101015,Lusaka D H Office,D.H.M.T. Office
+003ZMB100101016,Kaonga,Rural Health Centre
+003ZMB100101017,Mobola,Rural Health Centre
+003ZMB100103001,Kasempa District H Office,D.H.M.T. Office
+003ZMB100103002,Chilenga Rhc,Rural Health Centre
+003ZMB100103003,Chipepo,Urban Health Centre
+003ZMB100103004,Chipepo,Rural Health Centre
+003ZMB100103005,Chipepo Hc,Rural Health Centre
+003ZMB100103006,Kabunda Rhc,Rural Health Centre
+003ZMB100103007,Kasempa Rhc,Rural Health Centre
+003ZMB100103008,Mpunde Hc,Rural Health Centre
+003ZMB100103009,Mukubwe Hc,Rural Health Centre
+003ZMB100103010,Mukumbi Rhc,Rural Health Centre
+003ZMB100103011,Mukuni,Rural Health Centre
+003ZMB100103012,Mulanshi,Rural Health Centre
+003ZMB100103013,Mulungushi Rhc,Rural Health Centre
+003ZMB100103014,Ngabwe Rhc,Rural Health Centre
+003ZMB100103015,Waya Hc,Rural Health Centre
+003ZMB100104001,Mkushi D. Health Office,D.H.M.T. Office
+003ZMB100104002,Fiwila Rhc,Rural Health Centre
+003ZMB100104003,Lukoshi Clinic,Rural Health Centre
+003ZMB100104004,Musofu Hc,Rural Health Centre
+003ZMB100104005,Old Mkushi Rhc,Rural Health Centre
+003ZMB100105001,Mumbwa District H. Office,D.H.M.T. Office
+003ZMB100105002,Mumbwa District Hospital,District Hospital
+003ZMB100105003,Chunga Hc,Rural Health Centre
+003ZMB100105004,Chunga Rhc,Rural Health Centre
+003ZMB100105005,Kaindu Hc,Rural Health Centre
+003ZMB100105006,Kapyanga Rhc,Rural Health Centre
+003ZMB100105007,Lumano Rhc,Rural Health Centre
+003ZMB100105008,Mukulaikwa Rhc,Rural Health Centre
+003ZMB100105009,Mulambwe,Urban Health Centre
+003ZMB100105010,Myooye Rhc,Rural Health Centre
+003ZMB100106001,Serenje D. Health Office,D.H.M.T. Office
+003ZMB100106002,Serenje District Hospital,District Hospital
+003ZMB100106003,Chibale Rhc,Rural Health Centre
+003ZMB100106004,Chibale Rhc,Rural Health Centre
+003ZMB100106005,Chisomo Rhc,Rural Health Centre
+003ZMB100106006,Kabamba Rhc,Rural Health Centre
+003ZMB100106007,Lulamba Clinic,Industrial Rural Health Centre
+003ZMB100106008,Mailo Rhc,Rural Health Centre
+003ZMB100106009,Masansa Rhc,Rural Health Centre
+003ZMB100106010,Mpika D H Office,D.H.M.T. Office
+003ZMB100106011,Mpika District Hospital,District Hospital
+003ZMB100106012,Muchinka Rhc,Rural Health Centre
+003ZMB100106013,Mulilima Rhc,Rural Health Centre
+003ZMB100106014,Muyembe Rhc,Rural Health Centre
+003ZMB200201001,Chililabombwe D H Office,D.H.M.T. Office
+003ZMB200201002,Chitanda Rhc,Rural Health Centre
+003ZMB200202001,Chingola D Health Office,D.H.M.T. Office
+003ZMB200202002,Chiwempala Clinic,Urban Health Centre
+003ZMB200202003,Kasompe Clinic,Urban Health Centre
+003ZMB200203001,Kalulushi D Health Office,D.H.M.T. Office
+003ZMB200203002,Chibuluma Clinic,Urban Health Centre
+003ZMB200204001,Kitwe District H Office,D.H.M.T. Office
+003ZMB200204002,Garneton Clinic,Urban Health Centre
+003ZMB200204003,Itimpi,Urban Health Centre
+003ZMB200205001,Luanshya D Health Office,D.H.M.T. Office
+003ZMB200205002,Fisenge Clinic,Urban Health Centre
+003ZMB200206001,Kalabwe Rhc,Rural Health Centre
+003ZMB200206002,Lumpuma,Rural Health Centre
+003ZMB200206003,Nangula,Rural Health Centre
+003ZMB200207001,Masaiti D H Office,D.H.M.T. Office
+003ZMB200207002,Chikumbi Rhc,Rural Health Centre
+003ZMB200207003,Kambowa,Rural Health Centre
+003ZMB200207004,Kashitu,Rural Health Centre
+003ZMB200207005,Masaiti,Rural Health Centre
+003ZMB200207006,Mubanga,Rural Health Centre
+003ZMB200207007,Mukolwe Rhc,Rural Health Centre
+003ZMB200207008,Mumba Rhc,Rural Health Centre
+003ZMB200208001,Mpongwe District H Office,D.H.M.T. Office
+003ZMB200208002,Mpongwe District Hospital,District Hospital
+003ZMB200208003,Machiya,Rural Health Centre
+003ZMB200208004,Munkumpu Rhc,Rural Health Centre
+003ZMB200208005,Mwinuma,Rural Health Centre
+003ZMB200209001,Mufulira D H Office,D.H.M.T. Office
+003ZMB200209002,Butondo,Urban Health Centre
+003ZMB200209003,Murundu Clinic,Rural Health Centre
+003ZMB200210001,Ndola D H Office,D.H.M.T. Office
+003ZMB200210002,Chifubu Clinic,Industrial Urban Health Centre
+003ZMB200210003,Twapia Clinic,Urban Health Centre
+003ZMB300301001,Chadiza D H Office,D.H.M.T. Office
+003ZMB300301002,Chikoma Rhc,Rural Health Centre
+003ZMB300301003,Tafelansoni Rhc,Rural Health Centre
+003ZMB300301004,Zemba Rhc,Rural Health Centre
+003ZMB300302001,Chifunda Rhc,Rural Health Centre
+003ZMB300302002,Chikwa Rhc,Rural Health Centre
+003ZMB300302003,Fulaza Rhc,Rural Health Centre
+003ZMB300302004,Kabanda Rhc,Rural Health Centre
+003ZMB300302005,Kabanda Rhc,Rural Health Centre
+003ZMB300302006,Kambombo Rhc,Rural Health Centre
+003ZMB300302007,Matanda Rhc,Rural Health Centre
+003ZMB300302008,Mwami Mission Hospital,Mission Hospital
+003ZMB300302009,Nyembe Rhc,Rural Health Centre
+003ZMB300302010,Pondo Rhc,Rural Health Centre
+003ZMB300302011,Sitwe Rhc,Rural Health Centre
+003ZMB300302012,Zumwanda Rhc,Rural Health Centre
+003ZMB300303001,Chipata D H Office,D.H.M.T. Office
+003ZMB300303002,Chikuni Mission,Mission Hospital
+003ZMB300303003,Chiparamba Rhc,Rural Health Centre
+003ZMB300303004,Chipata Uhc,Urban Health Centre
+003ZMB300303005,Kalichero Rhc,Rural Health Centre
+003ZMB300303006,Kapara Rhc,Rural Health Centre
+003ZMB300303007,Madzimawe Rhc,Rural Health Centre
+003ZMB300303008,Madzimoyo Rhc,Rural Health Centre
+003ZMB300303009,Magwero Clinic,Rural Health Centre
+003ZMB300303010,Mkanda Rhc,Rural Health Centre
+003ZMB300303011,Mpande Rhc,Rural Health Centre
+003ZMB300303012,Mpepo Rhc,Rural Health Centre
+003ZMB300303013,Mshawa Rhc,Rural Health Centre
+003ZMB300303014,Tamanda Rhc,Rural Health Centre
+003ZMB300303015,Undi Rhc,Rural Health Centre
+003ZMB300304001,Choma D H Office,D.H.M.T. Office
+003ZMB300304002,Chimunsi Rhc,Rural Health Centre
+003ZMB300304003,Jamba,Rural Health Centre
+003ZMB300304004,Kagoro Rhc,Rural Health Centre
+003ZMB300304005,Kasiya,Rural Health Centre
+003ZMB300304006,Mawanda Rhc,Rural Health Centre
+003ZMB300305001,Lundazi D H Office,D.H.M.T. Office
+003ZMB300305002,Lundazi District Hospital,Rural Health Centre
+003ZMB300305003,Mongu D H Office,D.H.M.T. Office
+003ZMB300305004,Chasefu Rhc,Rural Health Centre
+003ZMB300305005,Chitungu Rhc,Rural Health Centre
+003ZMB300305006,Chitungulu Rhc,Rural Health Centre
+003ZMB300305007,Chokomeni Rhc,Rural Health Centre
+003ZMB300305008,Kalewa Clinic,Urban Health Centre
+003ZMB300305009,Kanyanga Rhc,Rural Health Centre
+003ZMB300305010,Kapangula Rhc,Rural Health Centre
+003ZMB300305011,Kapichila Rhc,Rural Health Centre
+003ZMB300305012,Lumezi Mission Hosp.,Rural Health Centre
+003ZMB300305013,Malandula Rhc,Rural Health Centre
+003ZMB300305014,Mwanya Rhc,Rural Health Centre
+003ZMB300306001,Chinunda Rhc,Rural Health Centre
+003ZMB300306002,Chiwala Rhc,Rural Health Centre
+003ZMB300306003,Katimba Rhc,Rural Health Centre
+003ZMB300306004,Masumba Rhc,Rural Health Centre
+003ZMB300306005,Msoro Rhc,Rural Health Centre
+003ZMB300307001,Nyimba D H Office,D.H.M.T. Office
+003ZMB300307002,Nyimba Hosp,Other Gvt Hosp (Defence)
+003ZMB300307003,Chisenga Rhc,Rural Health Centre
+003ZMB300307004,Hofmeyer Rhc,Rural Health Centre
+003ZMB300307005,Kaloko Clinic,Urban Health Centre
+003ZMB300307006,Kaloko Rhc,Rural Health Centre
+003ZMB300307007,Kalunga Rhc,Rural Health Centre
+003ZMB300307008,Luembe Rhc,Rural Health Centre
+003ZMB300307009,Mwape Rhc,Rural Health Centre
+003ZMB300307010,Nyalugwe Rhc,Rural Health Centre
+003ZMB300308001,Petauke D H Office,D.H.M.T. Office
+003ZMB300308002,Petauke District Hospital,District Hospital
+003ZMB300308003,Chitambo Dist. Hospital,District Hospital
+003ZMB300308004,Nyanje Hospital,Mission Hospital
+003ZMB300308005,Chataika Rhc,Rural Health Centre
+003ZMB300308006,Chimba Rhc,Rural Health Centre
+003ZMB300308007,Chipungu Rhc,Rural Health Centre
+003ZMB300308008,Chipungu Rhc,Rural Health Centre
+003ZMB300308009,Kalindawalo Rhc,Rural Health Centre
+003ZMB300308010,Lundu Rhc,Rural Health Centre
+003ZMB300308011,Manyane Rhc,Rural Health Centre
+003ZMB300308012,Merwe Rhc,Rural Health Centre
+003ZMB300308013,Minga Mission Hospital,Mission Hospital
+003ZMB300308014,Mumbi Rhc,Rural Health Centre
+003ZMB300308015,Nyamphande Rhc,Rural Health Centre
+003ZMB300308016,Nyangombe Rhc,Rural Health Centre
+003ZMB400401001,Chiengi District H. Office,D.H.M.T. Office
+003ZMB400401002,Kaputa D H Office,D.H.M.T. Office
+003ZMB400401003,Kapata Clinic,Urban Health Centre
+003ZMB400401004,Kapata Rhc,Rural Health Centre
+003ZMB400401005,Kaputa Rhc,Rural Health Centre
+003ZMB400401006,Puta Rhc,Rural Health Centre
+003ZMB400402001,Kawambwa D H Office,D.H.M.T. Office
+003ZMB400402002,Chama District H Office,D.H.M.T. Office
+003ZMB400402003,Chama Rhc,Rural Health Centre
+003ZMB400402004,Chama Rhc,Rural Health Centre
+003ZMB400402005,Chibote Rhc,Rural Health Centre
+003ZMB400402006,Chipembe Rhc,Rural Health Centre
+003ZMB400402007,Kawambwa Rhc,District Hospital
+003ZMB400402008,Lufubu Rhc,Rural Health Centre
+003ZMB400402009,Munkanta Rhc,Rural Health Centre
+003ZMB400402010,Mushota Rhc,Rural Health Centre
+003ZMB400403001,Mansa D. Health Office,D.H.M.T. Office
+003ZMB400403002,Chaba Rhc,Rural Health Centre
+003ZMB400403003,Chembe Rhc,Rural Health Centre
+003ZMB400403004,Chisunka Rhc,Rural Health Centre
+003ZMB400403005,Kalaba Rhc,Rural Health Centre
+003ZMB400403006,Kundamfumu Rhc,Rural Health Centre
+003ZMB400403007,Mabumba Rhc,Rural Health Centre
+003ZMB400403008,Mibenge Rhc,Rural Health Centre
+003ZMB400404001,Kapalala Rhc,Rural Health Centre
+003ZMB400404002,Lwela Rhc,Rural Health Centre
+003ZMB400404003,Sokontwe Rhc,Rural Health Centre
+003ZMB400405001,Mwense D H Office,D.H.M.T. Office
+003ZMB400405002,Chibondo Rhc,Rural Health Centre
+003ZMB400405003,Chipili Rhc,Rural Health Centre
+003ZMB400405004,Kalundu Rhc,Rural Health Centre
+003ZMB400405005,Kalungu Rhc,Rural Health Centre
+003ZMB400405006,Kashiba Rhc,Rural Health Centre
+003ZMB400405007,Katuta Rhc,Rural Health Centre
+003ZMB400405008,Katuta Rhc,Rural Health Centre
+003ZMB400405009,Kawama,Rural Health Centre
+003ZMB400405010,Kawama Clinic,Urban Health Centre
+003ZMB400405011,Kawama Clinic,Urban Health Centre
+003ZMB400405012,Kawama Clinic,Urban Health Centre
+003ZMB400405013,Kawama Rhc,Rural Health Centre
+003ZMB400405014,Lubunda Rhc,Rural Health Centre
+003ZMB400405015,Mubende Rhc,Rural Health Centre
+003ZMB400405016,Mutipula Rhc,Rural Health Centre
+003ZMB400406001,Nchelenge D H Office,D.H.M.T. Office
+003ZMB400406002,Kashikishi District Hosp.,District Hospital
+003ZMB400406003,Kambwali Rhc,Rural Health Centre
+003ZMB400406004,Mbereshi Mission Hospital,District Hospital
+003ZMB400406005,Nchelenge Rhc,Rural Health Centre
+003ZMB400407001,Samfya D H Office,D.H.M.T. Office
+003ZMB400407002,Bwalya Mponda Rhc,Rural Health Centre
+003ZMB400407003,Kasanka,Rural Health Centre
+003ZMB400407004,Mwewe Rhc,Rural Health Centre
+003ZMB400407005,Ndoba Rhc,Rural Health Centre
+003ZMB500501001,Chongwe D H Office,D.H.M.T. Office
+003ZMB500501002,Chalimbana Rhc,Rural Health Centre
+003ZMB500501003,Kabwata Uhc,Urban Health Centre
+003ZMB500501004,Kasisi Rhc,Rural Health Centre
+003ZMB500501005,Lukwipa Rhc,Rural Health Centre
+003ZMB500501006,Ngwerere Rhc,Rural Health Centre
+003ZMB500501007,Rufunsa Rhc,Rural Health Centre
+003ZMB500502001,Kafue D H Office,D.H.M.T. Office
+003ZMB500502002,Chiawa Rhc,Rural Health Centre
+003ZMB500502003,Kafue Mission,Rural Health Centre
+003ZMB500502004,Mwembeshi Rhc,Rural Health Centre
+003ZMB500503001,Luangwa D H Office1,D.H.M.T. Office
+003ZMB500503002,Katondwe District Hospit.,District Hospital
+003ZMB500503003,Chitope Rhc,Rural Health Centre
+003ZMB500503004,Kasinsa Rhc,Rural Health Centre
+003ZMB500503005,Luangwa Clinic,Urban Health Centre
+003ZMB600601001,Santa Maria Rhc,Rural Health Centre
+003ZMB600602001,Chinsali District Office,D.H.M.T. Office
+003ZMB600602002,Chinsali District Hospital,District Hospital
+003ZMB600602003,Chitwa,Rural Health Centre
+003ZMB600602004,Ilondola Rhc,Rural Health Centre
+003ZMB600602005,Kapulula,Rural Health Centre
+003ZMB600602006,Lubwa Rhc,Rural Health Centre
+003ZMB600602007,Lukaka Rhc,Rural Health Centre
+003ZMB600602008,Lunga Rhc,Rural Health Centre
+003ZMB600602009,Matumbo Rhc,Rural Health Centre
+003ZMB600602010,Mulilansolo Rhc,Rural Health Centre
+003ZMB600602011,Mutiti Rhc,Rural Health Centre
+003ZMB600603001,Isoka District H Office,D.H.M.T. Office
+003ZMB600603002,Isoka District Hospital,District Hospital
+003ZMB600603003,Chowa Clinic,Urban Health Centre
+003ZMB600603004,Kafwimbi,Rural Health Centre
+003ZMB600603005,Kampumbu Rhc,Rural Health Centre
+003ZMB600603006,Mulekatembo Rhc,Rural Health Centre
+003ZMB600603007,Muyombe Rhc,Rural Health Centre
+003ZMB600603008,Nsonga Rhc,Rural Health Centre
+003ZMB600604001,Bulaya,Rural Health Centre
+003ZMB600604002,Chipapa Rhc,Rural Health Centre
+003ZMB600604003,Chisheta Rhc,Rural Health Centre
+003ZMB600604004,Kabundi Rhc,Rural Health Centre
+003ZMB600604005,Kampinda Rhc,Rural Health Centre
+003ZMB600604006,Kasongole Rhc,Rural Health Centre
+003ZMB600604007,Lukwesa Rhc,Rural Health Centre
+003ZMB600604008,Mukupa Katandula Rhc,Rural Health Centre
+003ZMB600604009,Nsama Rhc,Rural Health Centre
+003ZMB600605001,Kasama D H Office,D.H.M.T. Office
+003ZMB600605002,Chilongoshi,Rural Health Centre
+003ZMB600605003,Chilubula Rhc,Rural Health Centre
+003ZMB600605004,Kasamba,Rural Health Centre
+003ZMB600605005,Kasamba Rhc,Rural Health Centre
+003ZMB600605006,Misengo Rhc,Rural Health Centre
+003ZMB600605007,Mukonge Rhc,Rural Health Centre
+003ZMB600605008,Mulanga Rhc,Rural Health Centre
+003ZMB600605009,Mulobola Rhc,Rural Health Centre
+003ZMB600605010,Mwamba Rhc,Rural Health Centre
+003ZMB600605011,Mwamba Rhc,Rural Health Centre
+003ZMB600605012,Mwika Rhc,Rural Health Centre
+003ZMB600605013,Nkole Rhc,Rural Health Centre
+003ZMB600606001,Luwingu District H Office,D.H.M.T. Office
+003ZMB600606002,Luwingu District Hospital,District Hospital
+003ZMB600606003,Ipusukilo Clinic,Industrial Urban Health Centre
+003ZMB600606004,Ipusukilo Rhc,Rural Health Centre
+003ZMB600606005,Nsombo Rhc,Rural Health Centre
+003ZMB600606006,Shimumbi Rhc,Rural Health Centre
+003ZMB600606007,Tungati Rhc,Rural Health Centre
+003ZMB600607001,Mbala D H Office,D.H.M.T. Office
+003ZMB600607002,Mambwe District H. Office,D.H.M.T. Office
+003ZMB600607003,Chipundu Rhc,Rural Health Centre
+003ZMB600607004,Kaka Rhc,Rural Health Centre
+003ZMB600607005,Kakoma Rhc,Rural Health Centre
+003ZMB600607006,Kawimbe Rhc,Rural Health Centre
+003ZMB600607007,Mambwe Mission Rhc,Rural Health Centre
+003ZMB600607008,Mpelembe Rhc,Rural Health Centre
+003ZMB600607009,Mupeta Rhc,Rural Health Centre
+003ZMB600607010,Nondo Rhc,Rural Health Centre
+003ZMB600607011,Nsokolo Rhc,Rural Health Centre
+003ZMB600607012,Senga Hill Rhc,Rural Health Centre
+003ZMB600608001,Chiundaponde Rhc,Rural Health Centre
+003ZMB600608002,Chungu Rhc,Rural Health Centre
+003ZMB600608003,Kabinga Rhc,Rural Health Centre
+003ZMB600608004,Kazembe Rhc,Rural Health Centre
+003ZMB600608005,Kazembe Rhc,Rural Health Centre
+003ZMB600608006,Kopa Rhc,Rural Health Centre
+003ZMB600608007,Mayuka Rhc,Rural Health Centre
+003ZMB600608008,Mbati Rhc,Rural Health Centre
+003ZMB600608009,Mukungule Rhc,Rural Health Centre
+003ZMB600608010,Nabwalya Rhc,Rural Health Centre
+003ZMB600609001,Mporokoso D H Office,D.H.M.T. Office
+003ZMB600609002,Mporokoso District Hosp.,District Hospital
+003ZMB600609003,Chabilikila Rhc,Rural Health Centre
+003ZMB600609004,Chitoshi Rhc,Rural Health Centre
+003ZMB600609005,Lubushi Rhc,Rural Health Centre
+003ZMB600609006,Mukupa Kaoma Rhc,Rural Health Centre
+003ZMB600610001,Mpulungu Dist. H. Office,D.H.M.T. Office
+003ZMB600610002,Chinakila,Rural Health Centre
+003ZMB600610003,Chisembe Rhc,Rural Health Centre
+003ZMB600610004,Chitimbwa,Rural Health Centre
+003ZMB600610005,Isoko,Rural Health Centre
+003ZMB600610006,Kaniki Clinic,Urban Health Centre
+003ZMB600610007,Kasakula,Rural Health Centre
+003ZMB600610008,Mpulungu,District Hospital
+003ZMB600610009,Mupapa,Rural Health Centre
+003ZMB600611001,Mungwi D H Office,D.H.M.T. Office
+003ZMB600611002,Makasa Rhc,Rural Health Centre
+003ZMB600611003,Malole Rhc,Rural Health Centre
+003ZMB600611004,Mungwi Rhc,Rural Health Centre
+003ZMB600611005,Ndasa Rhc,Rural Health Centre
+003ZMB600611006,Nseluka Rhc,Rural Health Centre
+003ZMB600611007,Rosa Rhc,Rural Health Centre
+003ZMB600612001,Nakonde D H Office,D.H.M.T. Office
+003ZMB600612002,Katete D H Office,D.H.M.T. Office
+003ZMB600612003,Chanka Rhc,Rural Health Centre
+003ZMB600612004,Chilanga Rhc,Rural Health Centre
+003ZMB600612005,Chingombe Mission Rhc,Rural Health Centre
+003ZMB600612006,Chingombe Rhc,Rural Health Centre
+003ZMB600612007,Chipete Rhc,Industrial Rural Health Centre
+003ZMB600612008,Chozi Rhc,Rural Health Centre
+003ZMB600612009,Mutundu Clinic,Urban Health Centre
+003ZMB600612010,Mwenzo Rhc,Rural Health Centre
+003ZMB600612011,Nakonde Rhc,Rural Health Centre
+003ZMB600612012,Ntatumbila Rhc,Rural Health Centre
+003ZMB600612013,Pemba,Rural Health Centre
+003ZMB600612014,Shemu Rhc,Rural Health Centre
+003ZMB600612015,Tembwe Rhc,Rural Health Centre
+003ZMB700701001,Chavuma District H Office,D.H.M.T. Office
+003ZMB700701002,Chavuma Mission Hospital,Mission Hospital
+003ZMB700701003,Chavuma Clinic,Urban Health Centre
+003ZMB700701004,Chavuma Rhc,Rural Health Centre
+003ZMB700701005,Chinyama Litapi Rhc,Rural Health Centre
+003ZMB700702001,Kabompo District H Office,D.H.M.T. Office
+003ZMB700702002,Kabompo District Hospital,District Hospital
+003ZMB700702003,Chikonkwelo Rhc,Rural Health Centre
+003ZMB700702004,Kasanda Clinic,Urban Health Centre
+003ZMB700702005,Loloma Mission Hospital,Mission Hospital
+003ZMB700702006,Mpumba,Rural Health Centre
+003ZMB700702007,Nkulwashi Rhc,Rural Health Centre
+003ZMB700702008,Nyakulenga,Rural Health Centre
+003ZMB700703001,Bwacha Urban Clinic,Urban Health Centre
+003ZMB700703002,Kelongwa Rhc,Rural Health Centre
+003ZMB700703003,Ntemwa Rhc,Rural Health Centre
+003ZMB700704001,Mufumbwe D.H. Office,D.H.M.T. Office
+003ZMB700704002,Jivundu Rhc,Rural Health Centre
+003ZMB700704003,Kalengwa (Zfds) Rhc,Rural Health Centre
+003ZMB700704004,Kashima Rhc,Rural Health Centre
+003ZMB700704005,Mufumbwe Rhc,Rural Health Centre
+003ZMB700704006,Mushima Rhc,Rural Health Centre
+003ZMB700705001,Mwinilunga D H Office,D.H.M.T. Office
+003ZMB700705002,Mwinilunga District Hosp.,District Hospital
+003ZMB700705003,Chibwika Rhc,Rural Health Centre
+003ZMB700705004,Chiwoma Rhc,Rural Health Centre
+003ZMB700705005,Ikelenge Rhc,Rural Health Centre
+003ZMB700705006,Kamapanda Rhc,Rural Health Centre
+003ZMB700705007,Kanyama Rhc,Rural Health Centre
+003ZMB700705008,Kanyama Uhc,Urban Health Centre
+003ZMB700705009,Ntambu Mission Hospital,Rural Health Centre
+003ZMB700705010,Sailunga Rhc,Rural Health Centre
+003ZMB700705011,Salujinga Rhc,Rural Health Centre
+003ZMB700706001,Solwezi D H Office,D.H.M.T. Office
+003ZMB700706002,Solwezi General Hospital,General Hospital
+003ZMB700706003,Chiombo Rhc,Rural Health Centre
+003ZMB700706004,Chisasa Rhc,Rural Health Centre
+003ZMB700706005,Chovwe Rhc,Rural Health Centre
+003ZMB700706006,Kapijimpanga Rhc,Rural Health Centre
+003ZMB700706007,Luamala Rhc,Rural Health Centre
+003ZMB700706008,Mapunga Rhc,Rural Health Centre
+003ZMB700706009,Matebo Rhc,Rural Health Centre
+003ZMB700706010,Mujimanzovu Rhc,Rural Health Centre
+003ZMB700706011,Mukonshi Rhc,Rural Health Centre
+003ZMB700706012,Mumena Rhc,Rural Health Centre
+003ZMB700706013,Shilenda Rhc,Rural Health Centre
+003ZMB700707001,Zambezi D H Office,D.H.M.T. Office
+003ZMB700707002,Zambezi District Hospital,District Hospital
+003ZMB700707003,Chinyingi Rhc,Rural Health Centre
+003ZMB700707004,Chitokoloki Mission Hosp.,Mission Hospital
+003ZMB700707005,Chitongo,Rural Health Centre
+003ZMB700707006,Dipalata Rhc,Rural Health Centre
+003ZMB700707007,Kucheka Rhc,Rural Health Centre
+003ZMB700707008,Mize,Rural Health Centre
+003ZMB700707009,Mpidi,Rural Health Centre
+003ZMB700707010,Mukandakunda,Rural Health Centre
+003ZMB700707011,Mumbeji Rhc,Rural Health Centre
+003ZMB700707012,Zambezi,Rural Health Centre
+003ZMB800801001,Batoka,Rural Health Centre
+003ZMB800801002,Chilala,Rural Health Centre
+003ZMB800801003,Macha Mission Hospital,General Hospital
+003ZMB800801004,Mangunza,Rural Health Centre
+003ZMB800801005,Mapanza,Rural Health Centre
+003ZMB800801006,Masuku,Rural Health Centre
+003ZMB800801007,Mbabala,Rural Health Centre
+003ZMB800801008,Mbabala Rhc,Rural Health Centre
+003ZMB800801009,Moyo,Rural Health Centre
+003ZMB800801010,Muzoka,Rural Health Centre
+003ZMB800801011,Siabunkululu,Rural Health Centre
+003ZMB800801012,Sikalongo,Rural Health Centre
+003ZMB800802001,Gwembe District H Office,D.H.M.T. Office
+003ZMB800802002,Gwembe District Hospital,District Hospital
+003ZMB800802003,Chaboboma,Rural Health Centre
+003ZMB800802004,Munyumbwe,Rural Health Centre
+003ZMB800803001,Basanga Rhc,Rural Health Centre
+003ZMB800803002,Litoya,Rural Health Centre
+003ZMB800803003,Nanzhila Rhc,Rural Health Centre
+003ZMB800803004,Ngoma Rhc,Rural Health Centre
+003ZMB800804001,Kalomo Distrct H. Office,D.H.M.T. Office
+003ZMB800804002,Dimbwe,Rural Health Centre
+003ZMB800804003,Kalomo,District Hospital
+003ZMB800804004,Kanchele,Rural Health Centre
+003ZMB800804005,Namwianga,Rural Health Centre
+003ZMB800804006,Simwatachela,Rural Health Centre
+003ZMB800804007,Sipatunyana,Rural Health Centre
+003ZMB800804008,Zimba,Mission Hospital
+003ZMB800805001,Kazungula D H Office,D.H.M.T. Office
+003ZMB800805002,Katapazi,Rural Health Centre
+003ZMB800805003,Katombora,Rural Health Centre
+003ZMB800805004,Kazungula,Rural Health Centre
+003ZMB800805005,Libonda,Rural Health Centre
+003ZMB800805006,Makunka,Rural Health Centre
+003ZMB800805007,Mambova,Rural Health Centre
+003ZMB800805008,Musokotwane,Rural Health Centre
+003ZMB800805009,Nyawa,Rural Health Centre
+003ZMB800805010,Sekute,Rural Health Centre
+003ZMB800805011,Simango,Rural Health Centre
+003ZMB800805012,Sinde,Rural Health Centre
+003ZMB800806001,Livingstone D H Office,D.H.M.T. Office
+003ZMB800806002,Livingstone Clinic,Urban Health Centre
+003ZMB800806003,Maramba Stage Ii Hc,Urban Health Centre
+003ZMB800807001,Mazabuka D H Office,D.H.M.T. Office
+003ZMB800807002,Mazabuka District Hospit.,District Hospital
+003ZMB800807003,Chikankanta Hospital,General Hospital
+003ZMB800807004,Lubombo Rhc,Industrial Rural Health Centre
+003ZMB800807005,Magoye,Rural Health Centre
+003ZMB800807006,Nakambala,Urban Health Centre
+003ZMB800807007,Naluama Rhc,Rural Health Centre
+003ZMB800808001,Monze D H Office,D.H.M.T. Office
+003ZMB800808002,Chisekesi,Rural Health Centre
+003ZMB800808003,Rusangu,Rural Health Centre
+003ZMB800809001,Namwala Dist H Office,D.H.M.T. Office
+003ZMB800809002,Namwala Dist Hospital,District Hospital
+003ZMB800809003,Kabulamwanda,Rural Health Centre
+003ZMB800809004,Kantengwa,Rural Health Centre
+003ZMB800809005,Kasaka,Rural Health Centre
+003ZMB800809006,Kasenga,Rural Health Centre
+003ZMB800809007,Lubwe Mission Hospital,Mission Hospital
+003ZMB800809008,Lubwe Rhc,Rural Health Centre
+003ZMB800809009,Maala,Rural Health Centre
+003ZMB800809010,Muchila,Rural Health Centre
+003ZMB800809011,Nakamboma,Rural Health Centre
+003ZMB800810001,Siavonga D H Office,D.H.M.T. Office
+003ZMB800810002,Siavonga District Hospit.,District Hospital
+003ZMB800810003,Lusitu,Rural Health Centre
+003ZMB800810004,Siachitema,Rural Health Centre
+003ZMB800810005,Sianyolo,Rural Health Centre
+003ZMB800811001,Sinazongwe D H Office,D.H.M.T. Office
+003ZMB800811002,Maamba,District Hospital
+003ZMB800811003,Siameja,Rural Health Centre
+003ZMB800811004,Siatwinda,Rural Health Centre
+003ZMB800811005,Sinamalima,Rural Health Centre
+003ZMB800811006,Sinazeze,Rural Health Centre
+003ZMB800811007,Sinazongwe,Rural Health Centre
+003ZMB900901001,Kalabo District H Office,D.H.M.T. Office
+003ZMB900901002,Kalabo District Hospital,District Hospital
+003ZMB900901003,Chilonga Mission Hospital,General Hospital
+003ZMB900901004,Kasimba,Rural Health Centre
+003ZMB900901005,Kasongo Clinic,Urban Health Centre
+003ZMB900901006,Kaywala,Rural Health Centre
+003ZMB900901007,Kuuli,Rural Health Centre
+003ZMB900901008,Lukona,Rural Health Centre
+003ZMB900901009,Mulilo Rhc,Rural Health Centre
+003ZMB900901010,Nambala Rhc,Urban Health Centre
+003ZMB900901011,Nangoma,Mission Hospital
+003ZMB900901012,Tapo,Rural Health Centre
+003ZMB900901013,Tapo,Rural Health Centre
+003ZMB900902001,Kaoma D H Office,D.H.M.T. Office
+003ZMB900902002,Kaoma District Hospital,District Hospital
+003ZMB900902003,Luampa Hospital,Mission Hospital
+003ZMB900902004,Mangango Hospital,Mission Hospital
+003ZMB900902005,Kahare,Rural Health Centre
+003ZMB900902006,Kakumbi Rhc,Rural Health Centre
+003ZMB900902007,Kaoma Clinic,Rural Health Centre
+003ZMB900902008,Kasabi,Rural Health Centre
+003ZMB900902009,Kayambi Rhc,Rural Health Centre
+003ZMB900902010,Luampa Clinic,Rural Health Centre
+003ZMB900902011,Mandevu Uhc,Urban Health Centre
+003ZMB900902012,Mulonga Rhc,Rural Health Centre
+003ZMB900902013,Mungomba Rhc,Rural Health Centre
+003ZMB900902014,Munyama,Rural Health Centre
+003ZMB900902015,Mushili Clinic,Urban Health Centre
+003ZMB900903001,Kamilende,Rural Health Centre
+003ZMB900903002,Kayombo Rhc,Rural Health Centre
+003ZMB900903003,Mayankwa,Rural Health Centre
+003ZMB900903004,Mbanga,Rural Health Centre
+003ZMB900903005,Ngimbu,Rural Health Centre
+003ZMB900903006,Njonjolo,Rural Health Centre
+003ZMB900904001,Kama,Rural Health Centre
+003ZMB900904002,Lealui,Rural Health Centre
+003ZMB900904003,Lukalanya,Rural Health Centre
+003ZMB900904004,Mabumbu,Rural Health Centre
+003ZMB900904005,Mawawa,Rural Health Centre
+003ZMB900904006,Mwenda Rhc,Rural Health Centre
+003ZMB900904007,Namushakende,Rural Health Centre
+003ZMB900904008,Ndanda,Rural Health Centre
+003ZMB900904009,Sikongo,Rural Health Centre
+003ZMB900904010,Simakumba,Rural Health Centre
+003ZMB900904011,Ushaa,Rural Health Centre
+003ZMB900905001,Senanga District H Office,D.H.M.T. Office
+003ZMB900905002,Senanga District Hospital,District Hospital
+003ZMB900905003,Itufa,Rural Health Centre
+003ZMB900905004,Liliachi,Rural Health Centre
+003ZMB900905005,Litawa,Rural Health Centre
+003ZMB900905006,Muoyo,Rural Health Centre
+003ZMB900905007,Mwandi Mission,Mission Hospital
+003ZMB900905008,Nalolo,Rural Health Centre
+003ZMB900905009,Sinungu,Rural Health Centre
+003ZMB900906001,Sesheke Dhmt,D.H.M.T. Office
+003ZMB900906002,Lukulu District H Office,D.H.M.T. Office
+003ZMB900906003,Lukulu District Hospital,District Hospital
+003ZMB900906004,Bwina,Rural Health Centre
+003ZMB900906005,George Uhc,Urban Health Centre
+003ZMB900906006,Imusho,Rural Health Centre
+003ZMB900906007,Kalobolelwa,Rural Health Centre
+003ZMB900906008,Kamitondo Clinic,Urban Health Centre
+003ZMB900906009,Lukulu Rhc,Rural Health Centre
+003ZMB900906010,Masese,Rural Health Centre
+003ZMB900906011,Mukuyu Rhc,Urban Health Centre
+003ZMB900906012,Mulobezi,Rural Health Centre
+003ZMB900906013,Musangu Rhc,Rural Health Centre
+003ZMB900906014,Nawinda,Rural Health Centre
+003ZMB900906015,Ngo,Urban Health Centre
+003ZMB900906016,Sichili Mission,Mission Hospital
+003ZMB900906017,Sichili Rhc,Rural Health Centre
+003ZMB900906018,Sihole,Rural Health Centre
+003ZMB900906019,Sitoya,Rural Health Centre
+003ZMB900907001,Mushukula,Rural Health Centre
+003ZMB900907002,Mutomena Rhc,Rural Health Centre
+003ZMB900907003,Nangweshi Rhc,Rural Health Centre
+003ZMB900907004,Shangombo Rhc,Rural Health Centre
+003ZMB900907005,Sinjembela Rhc,Rural Health Centre
+003ZMB900907006,Sioma Rhc,Rural Health Centre
+003ZMB900907007,Sitoti Rhc,Rural Health Centre
